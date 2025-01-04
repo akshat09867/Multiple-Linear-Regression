@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 
 
 
-data=pd.read_csv('/home/akshat/Downloads/Student_Performance.csv')
+data=pd.read_csv('/path/to/Student_Performance.csv')
 
 
 scaler = StandardScaler()
