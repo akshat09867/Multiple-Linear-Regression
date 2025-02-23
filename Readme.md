@@ -71,4 +71,4 @@ The code uses a CSV file named `Student_Performance.csv` (the path should be cor
  - **Cost vs. Iterations:** A plot of the cost function versus the number of iterations is generated to visualize the convergence of gradient descent.
  - **Predicted vs. Actual (for a single feature):** A scatter plot shows the actual 'Performance Index' values against 'Hours Studied'. The predicted values from the model are overlaid on this plot to visualize the model's fit.  Note that since this is multiple linear regression, plotting against just one feature gives a limited view of the model's overall performance.  Ideally, you'd need more sophisticated visualization techniques for higher dimensions.
 
----
+
